@@ -1,0 +1,116 @@
+2024-04-14 15:23:11.1713079391 [info]: deal with the client(192.168.222.1)
+2024-04-14 15:23:11.1713079391 [info]: adjust timer once
+2024-04-14 15:23:11.1713079391 [info]: GET / HTTP/1.1
+2024-04-14 15:23:11.1713079391 [info]: Host: 192.168.222.128:8888
+2024-04-14 15:23:11.1713079391 [info]: Connection: keep-alive
+2024-04-14 15:23:11.1713079391 [info]: Upgrade-Insecure-Requests: 1
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+2024-04-14 15:23:11.1713079391 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-14 15:23:11.1713079391 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-14 15:23:11.1713079391 [info]: Accept-Encoding: gzip, deflate
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+2024-04-14 15:23:11.1713079391 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-14 15:23:11.1713079391 [info]: 
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+Connection: keep-alive
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+Connection: keep-alive
+
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+Connection: keep-alive
+
+The requested file was not found on this server.
+
+2024-04-14 15:23:11.1713079391 [info]: send data to the client(192.168.222.1)
+2024-04-14 15:23:11.1713079391 [info]: adjust timer once
+2024-04-14 15:23:11.1713079391 [info]: deal with the client(192.168.222.1)
+2024-04-14 15:23:11.1713079391 [info]: adjust timer once
+2024-04-14 15:23:11.1713079391 [info]: GET /favicon.ico HTTP/1.1
+2024-04-14 15:23:11.1713079391 [info]: Host: 192.168.222.128:8888
+2024-04-14 15:23:11.1713079391 [info]: Connection: keep-alive
+2024-04-14 15:23:11.1713079391 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-14 15:23:11.1713079391 [info]: Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8
+2024-04-14 15:23:11.1713079391 [info]: Referer: http://192.168.222.128:8888/
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Referer: http://192.168.222.128:8888/
+2024-04-14 15:23:11.1713079391 [info]: Accept-Encoding: gzip, deflate
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+2024-04-14 15:23:11.1713079391 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-14 15:23:11.1713079391 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-14 15:23:11.1713079391 [info]: 
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+Connection: keep-alive
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+Connection: keep-alive
+
+
+2024-04-14 15:23:11.1713079391 [info]: request:HTTP/1.1 404 Not Found
+Content-Length: 49
+Connection: keep-alive
+
+The requested file was not found on this server.
+
+2024-04-14 15:23:11.1713079391 [info]: send data to the client(192.168.222.1)
+2024-04-14 15:23:11.1713079391 [info]: adjust timer once
+2024-04-14 15:23:15.1713079395 [info]: timer tick
+2024-04-14 15:23:20.1713079400 [info]: timer tick
+2024-04-14 15:23:25.1713079405 [info]: timer tick
+2024-04-14 15:23:30.1713079410 [info]: timer tick
+2024-04-14 15:23:30.1713079410 [info]: close fd 17
+2024-04-14 15:23:30.1713079410 [info]: close fd 16
+2024-04-14 15:26:01.1713079561 [info]: deal with the client(192.168.222.1)
+2024-04-14 15:26:01.1713079561 [info]: adjust timer once
+2024-04-14 15:26:01.1713079561 [info]: GET / HTTP/1.1
+2024-04-14 15:26:01.1713079561 [info]: Host: 192.168.222.128:8888
+2024-04-14 15:26:01.1713079561 [info]: Connection: keep-alive
+2024-04-14 15:26:01.1713079561 [info]: Upgrade-Insecure-Requests: 1
+2024-04-14 15:26:01.1713079561 [info]: oop! unknow header Upgrade-Insecure-Requests: 1
+2024-04-14 15:26:01.1713079561 [info]: User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-14 15:26:01.1713079561 [info]: oop! unknow header User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0
+2024-04-14 15:26:01.1713079561 [info]: Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-14 15:26:01.1713079561 [info]: oop! unknow header Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+2024-04-14 15:26:01.1713079561 [info]: Accept-Encoding: gzip, deflate
+2024-04-14 15:26:01.1713079561 [info]: oop! unknow header Accept-Encoding: gzip, deflate
+2024-04-14 15:26:01.1713079561 [info]: Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-14 15:26:01.1713079561 [info]: oop! unknow header Accept-Language: zh-CN,zh;q=0.9,en;q=0.8,en-GB;q=0.7,en-US;q=0.6
+2024-04-14 15:26:01.1713079561 [info]: 
+2024-04-14 15:26:01.1713079561 [info]: request:HTTP/1.1 200 OK
+
+2024-04-14 15:26:01.1713079561 [info]: request:HTTP/1.1 200 OK
+Content-Length: 586
+
+2024-04-14 15:26:01.1713079561 [info]: request:HTTP/1.1 200 OK
+Content-Length: 586
+Connection: keep-alive
+
+2024-04-14 15:26:01.1713079561 [info]: request:HTTP/1.1 200 OK
+Content-Length: 586
+Connection: keep-alive
+
+
+2024-04-14 15:26:01.1713079561 [info]: send data to the client(192.168.222.1)
+2024-04-14 15:26:01.1713079561 [info]: adjust timer once
+2024-04-14 15:26:04.1713079564 [info]: timer tick
+2024-04-14 15:26:09.1713079569 [info]: timer tick
